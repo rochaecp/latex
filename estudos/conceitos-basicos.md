@@ -1,5 +1,22 @@
 # LaTex
 
+## Arquivo .tex
+
+O arquivo .tex é dividido em:
+
+1. **Preâmbulo**: contém as informações globais do texto, como tipo de texto, quais imagens, fontes, etc
+1. **Corpo do texto**: texto propriamente dito
+
+Exemplo de arquivo .tex:
+
+~~~tex
+\documentclass[a4paper, 12pt]{article} %isto é o preambulo, article é o nome da classe, entre []s são as opçoes
+
+\begin{document} %isto é o corpo do texto. Para cada \begin haverá um \end correspondente
+    O texto vem aqui
+\end{document}
+~~~
+
 ## Comentários
 
 Comentários de uma linha com: ```%```
@@ -26,23 +43,6 @@ Caracteres “brancos” como espaços ou caracteres de tabulação (tabs) são 
 Caracteres brancos consecutivos são tratados como um “espaço”.  
 Espaços no inicio da linha são ignorados.  
 Quebra de linha é lida como espaço em branco.  
-
-## Arquivo .tex
-
-O arquivo .tex é dividido em:
-
-- Preâmbulo: contém informações globais - tipo de texto, imagens, fontes
-- Corpo do texto: texto propriamente dito
-
-Exemplo de arquivo .tex:
-
-~~~tex
-\documentclass[a4paper, 12pt]{article} %isto é o preambulo, article é o nome da classe, entre []s são as opçoes
-
-\begin{document} %para cada \begin haverá um \end correspondente
-    O texto vem aqui
-\end{document}
-~~~
 
 ## Diversos
 
