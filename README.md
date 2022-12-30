@@ -1,5 +1,9 @@
 # LaTex
 
+## Úteis
+
+1. [Programas necessários](estudos/programas.md)
+
 ## Introdução
 
 1. [Sobre o LaTex](estudos/sobre.md)
