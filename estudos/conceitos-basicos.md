@@ -55,6 +55,18 @@ Caracteres brancos consecutivos são tratados como um “espaço”.
 Espaços no inicio da linha são ignorados.  
 Quebra de linha é lida como espaço em branco.  
 
+## Texto subscrito
+
+~~~tex
+\textsubscript{}
+~~~
+
+## Texto sobrescrito
+
+~~~tex
+\textsuperscript{}
+~~~
+
 ## Diversos
 
 O ficheiro contém o texto do documento assim como os comandos que dizem ao LATEX como formatar o texto.  
