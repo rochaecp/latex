@@ -78,16 +78,6 @@ Chaves {} são usadas para delimitar comandos.
 
 - a classe article tem formatações pré estabelecidas como margens e numeração de página
 
-## Caracteres especiais (outros:  $  ^ & _ { } ~ \ # $)
-
-~~~tex
-\c c == ç 
-\~a == ã
-\'o == ó
-\^o == ô
-2$^\circ$ == 2°
-~~~
-
 ## Formatações de texto
 
 ~~~tex
