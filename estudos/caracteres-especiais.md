@@ -7,10 +7,10 @@
 | ó         |                   | ```\'o```             |                           |
 | ô         |                   | ```\^o```             |                           |
 | 2°        |                   | ```2$^\circ$```       |                           |
-| _         | Underline         | ```\_```              |                           |
 | "         | Abre aspas        | ``` `` ```            | usar sinal de crase       |
 | "         | Fecha aspas       | ``` '' ```            | usar duas aspas simples   |
 | \n        | Quebra de linha   | ``` \\ ```            |                           |
+| _         | Underline         | ``` \_ ```            |                           |
 | $         |                   | ``` \$ ```            |                           |
 | #         |                   | ``` \# ```            |                           | 
 | %         |                   | ``` \% ```            |                           | 
@@ -20,3 +20,5 @@
 | }         |                   | ``` \} ```            |                           | 
 | ~         |                   | ``` \~ ```            |                           | 
 | \         |                   | ``` $\backslash$ ```  |                           |
+| <         |                   | ``` \textless ```     |                           |
+| >         |                   | ``` \textgreater ```  |                           |
