@@ -27,3 +27,7 @@
 1. [Matrizes](estudos/matrizes.md)
 1. [Geometria Analítica](estudos/gemetria-analitica.md)
 1. [Cálculo](estudos/calculo.md)
+
+## Pacotes
+
+1. [Listings (para inserir códigos formatados no document .tex)](estudos/pacote-listings.md) - [Documentação aqui](http://linorg.usp.br/CTAN/macros/latex/contrib/listings/listings.pdf)
