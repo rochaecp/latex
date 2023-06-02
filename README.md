@@ -1,33 +1,25 @@
 # LaTex
 
-## Úteis
-
-1. [Programas necessários](estudos/programas.md)
-
-## Introdução
-
-1. [Sobre o LaTex](estudos/sobre.md)
-1. [Arquivo .tex](estudos/arquivo-tex.md)
-1. [Comentários](estudos/comentarios.md)
-1. [Parágrafos](estudos/paragrafos.md)
-1. [Formatação de textos](estudos/formatacao-textos.md)
-1. [Caracteres Especiais](estudos/caracteres-especiais.md)
-1. [Imagens](estudos/imagens.md)
-1. [Tabelas](estudos/tabelas.md)
-1. [Links no próprio documento](estudos/links-no-documento.md)
-1. [Exemplo de texto completo](estudos/ex-completo.md)
-1. [Classe Lipsum](estudos/classe-lipsum.md)
-
-
-## Matemática
-
-1. [Operações matemáticas básicas](estudos/operacoes-matematicas.md)
-1. [Bháskara](estudos/bhaskara.md)
-1. [Trabalhando com listas](estudos/listas.md)
-1. [Matrizes](estudos/matrizes.md)
-1. [Geometria Analítica](estudos/gemetria-analitica.md)
-1. [Cálculo](estudos/calculo.md)
-
-## Pacotes
-
-1. [Listings (para inserir códigos formatados no document .tex)](estudos/pacote-listings.md) - [Documentação aqui](http://linorg.usp.br/CTAN/macros/latex/contrib/listings/listings.pdf)
+- Úteis
+    - [Programas necessários](estudos/programas.md)
+- Introdução
+    - [Sobre o LaTex](estudos/sobre.md)
+    - [Arquivo .tex](estudos/arquivo-tex.md)
+    - [Comentários](estudos/comentarios.md)
+    - [Parágrafos](estudos/paragrafos.md)
+    - [Formatação de textos](estudos/formatacao-textos.md)
+    - [Caracteres Especiais](estudos/caracteres-especiais.md)
+    - [Imagens](estudos/imagens.md)
+    - [Tabelas](estudos/tabelas.md)
+    - [Links no próprio documento](estudos/links-no-documento.md)
+    - [Exemplo de texto completo](estudos/ex-completo.md)
+    - [Classe Lipsum](estudos/classe-lipsum.md)
+- Matemática
+    - [Operações matemáticas básicas](estudos/operacoes-matematicas.md)
+    - [Bháskara](estudos/bhaskara.md)
+    - [Trabalhando com listas](estudos/listas.md)
+    - [Matrizes](estudos/matrizes.md)
+    - [Geometria Analítica](estudos/gemetria-analitica.md)
+    - [Cálculo](estudos/calculo.md)
+- Pacotes
+    - [Listings (para inserir códigos formatados no document .tex)](estudos/pacote-listings.md) - [Documentação aqui](http://linorg.usp.br/CTAN/macros/latex/contrib/listings/listings.pdf)
